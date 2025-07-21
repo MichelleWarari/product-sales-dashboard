@@ -24,13 +24,13 @@ This Power BI project analyzes sports product sales across various dimensions to
 ## 🖼️ Dashboard Previews
 
 ### 🔹 Overall Product Sales Dashboard
-![Product Dashboard](images/product%20dashboard.png)
+![Product Dashboard](images/ProductDashboard.PNG)
 
 ### 🔹 Regional & Method Breakdown
-![Product Sales Insights Dashboard](images/product%20sales%20insights%20dashboard.png)
+![Product Sales Insights Dashboard](images/ProductInsights.PNG)
 
 ### 🔹 Sales Decomposition View
-![Product Sales Dashboard](images/productsalesdashboard.png)
+![Product Sales Dashboard](images/ProductSalesDashboard.PNG)
 
 
 ## 🛠️ Tools & Technologies
